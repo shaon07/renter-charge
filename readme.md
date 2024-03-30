@@ -1,6 +1,7 @@
 
 # api payload
 ```
+router: http://localhost:8000/api/v1/charge
 {
   "rentalDuration": 48,
   "carRate": {
