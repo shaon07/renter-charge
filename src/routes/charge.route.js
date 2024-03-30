@@ -3,6 +3,6 @@ import chargeController from "../controller/charge.controller.js";
 
 const router = Router();
 
-router.get("/", chargeController)
+router.post("/", chargeController)
 
 export default router;
