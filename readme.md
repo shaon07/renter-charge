@@ -1,6 +1,7 @@
 
 # api payload
-```{
+```
+{
   "rentalDuration": 48,
   "carRate": {
     "hourly": 10,
@@ -8,4 +9,5 @@
   },
   "discount": 10,
   "additionalCharges": 50
-}```
+}
+```
